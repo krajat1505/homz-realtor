@@ -7,7 +7,7 @@ import React from "react";
 
 const page = () => {
   return (
-    <div className="flex flex-col gap-14">
+    <div className="flex flex-col sm:gap-14 gap-8">
       <Hero />
       <RealEstateProjects />
       <LatestProject />

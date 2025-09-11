@@ -53,7 +53,7 @@ const LatestProject = () => {
           <div className="flex-1 h-px bg-gradient-to-l from-black/50 to-transparent"></div>
         </div>
 
-        <p className="text-gray-600 mt-4 mb-8">
+        <p className="text-gray-600 mt-4 mb-8 text-xl">
           Explore off-plan and upcoming properties before they hit the
           mainstream market.
         </p>
